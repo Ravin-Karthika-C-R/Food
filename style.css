@@ -3,12 +3,14 @@
     margin: 0;
     box-sizing: border-box;
     font-family: "Poppins", sans-serif;
+    overflow-x: hidden;
   }
   body {
     background-image: url('./c2.jpg');
     background-color: #f4c531;
     background-repeat: no-repeat;
     background-size: cover;
+    
   }
   h1{
     margin-top: 900px;
